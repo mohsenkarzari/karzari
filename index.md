@@ -1,29 +1,37 @@
 
-### Anahita Taheri
+### Mohsen karzari
 
 
 ### Personal informations
 
 ---
-+ name: Anahita
-+ last name : Taheri
-+ Date of birth : 1979/November/29
-+ I am a trader and IT engineering student
++ name: Mohsen
++ last name : karzari
++ Date of birth : 1986/March/27
++ IT manager
++ Network engineer
++ Master student of software engineering
 + location : Tehran , I.R.Iran
 
 
 ### Skill Highlights
 
 ---
-+ trade on Tehran Stock Exchange and Forex
-+ translating
++ Networking
++ Virtual machines (Vmware VCP)
++ Gpon and FTTx
++ Program developer. C# .net, C++, Python
++ Webmaster and SEO
++ Microsoft office
++ IoT researcher
 
 
 ### Education
 
 ---
-+ Diploma : Aeen Tarbiat high school
-+ Bachelor of science : IT Engineering
++ Diploma : Amirkabir high school
++ Associate Degree : University of Applied Sciences, Tehran Municipality Information Technology Organization Branch
++ Bachelor of science : University of Applied Sciences, Tehran Municipality Information Technology Organization Branch
 _ payam Noor University of North 
 
 ### language
@@ -31,19 +39,21 @@ _ payam Noor University of North
 ---
 + Persian
 + English
++ Azeri
++ Turkish
 
 ### Favorites
 
 ---
-+ Trade
-+ Studing historical books
-+ travel 
-+ playing volleyball
++ Cinema and movie
++ Soccer and Football
++ Gardening and plants
 
 ### working Experience
 
 ---
-+ I am working in Caltural,Turism & Handicrafts Minister.
++ computer networks expert at BRT1 (Tehran municipality)
++ IT manager at BRT1 (Tehran municipality)
 
 
 
