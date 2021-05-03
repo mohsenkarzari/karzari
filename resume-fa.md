@@ -1,8 +1,3 @@
-<style type="text/css">
-body{
- direction:rtl;
-}
-</style>
 ### محسن کارزاری
 
 ### اطلاعات شخصی
