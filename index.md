@@ -10,6 +10,7 @@
 + Date of birth : 1986/March/27
 + IT manager
 + Network engineer
++ Inventor
 + Master student of software engineering
 + location : Tehran , I.R.Iran
 
